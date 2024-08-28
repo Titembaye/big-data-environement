@@ -1,0 +1,52 @@
+[
+    {
+        "product_id": "001",
+        "name": "Ordinateur Portable",
+        "category": "Informatique",
+        "brand": "Dell",
+        "price": 999.99,
+        "quantity_in_stock": 25,
+        "sale_date": "2024-08-01",
+        "vendor": "TechStore"
+    },
+    {
+        "product_id": "002",
+        "name": "Clavier Mécanique",
+        "category": "Accessoires",
+        "brand": "Logitech",
+        "price": 129.99,
+        "quantity_in_stock": 50,
+        "sale_date": "2024-08-02",
+        "vendor": "GadgetWorld"
+    },
+    {
+        "product_id": "003",
+        "name": "Souris Sans Fil",
+        "category": "Accessoires",
+        "brand": "Microsoft",
+        "price": 59.99,
+        "quantity_in_stock": 75,
+        "sale_date": "2024-08-03",
+        "vendor": "TechStore"
+    },
+    {
+        "product_id": "004",
+        "name": "Écran 27\" 4K",
+        "category": "Moniteurs",
+        "brand": "Samsung",
+        "price": 399.99,
+        "quantity_in_stock": 15,
+        "sale_date": "2024-08-04",
+        "vendor": "ElectroShop"
+    },
+    {
+        "product_id": "005",
+        "name": "Disque SSD 1 To",
+        "category": "Stockage",
+        "brand": "Crucial",
+        "price": 229.99,
+        "quantity_in_stock": 30,
+        "sale_date": "2024-08-05",
+        "vendor": "GadgetWorld"
+    }
+]
